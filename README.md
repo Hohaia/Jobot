@@ -7,5 +7,5 @@
 
 ## Introduction
 Jobot (Jo-bot) is a simple chatbot for use in discord servers.
-It is written in C++ and uses the [Discord API](https://discord.com/developers/docs/intro) to communicate with discord servers.
-It is currently in development and is not yet ready for use.
+*It is written in C++ and uses the [Discord API](https://discord.com/developers/docs/intro) to communicate with discord servers.
+*It is currently in development and is not yet ready for use.
