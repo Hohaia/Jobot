@@ -29,3 +29,4 @@ string random_number_generator(int lowerLimit = 1, int upperLimit = 10) {
 	int num = dis(gen);                                     // Generate random number between lowerLimit and upperLimit
 
 	return to_string(num);
+}
