@@ -2,4 +2,4 @@
 
 using std::string;
 
-string apiKey = "API KEY";
+string apiKey = "lL0F+Zw7hho7mFGUQAIfJg==cHeVcHiZtQ8nnYT7";
