@@ -10,6 +10,11 @@ using std::string;
 using std::to_string;
 using std::uniform_int_distribution;
 
+/// Return a list of all commands and their descriptions
+string bot_Help() {
+	// TODO: print a list of all commands and their descriptions
+}
+
 /// Return a random fact (using api.api-ninjas.com)
 string random_Fact() {
 	auto response = cpr::Get(cpr::Url{"https://api.api-ninjas.com/v1/facts?limit=1"}, cpr::Header{{"X-Api-Key", apiKey}}); // Send GET request to API
